@@ -1,0 +1,7 @@
+[package]
+name = "fast-cmake"
+version = "0.1.0"
+authors = ["Lilian A. Moraru <lilian.moraru90@gmail.com>"]
+
+[dependencies]
+cmake = "0.1"
