@@ -5,3 +5,4 @@ authors = ["Lilian A. Moraru <lilian.moraru90@gmail.com>"]
 
 [dependencies]
 cmake = "0.1"
+cachedir = "0.1"
